@@ -1,5 +1,5 @@
 # Image Detection
-Requirement:-
+Requirement:- 
 Python 3.8,
 Django,
 Pillow,
@@ -22,6 +22,8 @@ Steps:-
 13. python manage.py runserver
 
 Contact me:-
+
+
 Instagram:- @meghalmurkute
 
 Twitter:-@meghalmurkute
