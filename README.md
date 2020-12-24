@@ -1,0 +1,2 @@
+# imagedetection
+This project prepared detects images from the camera and check weather image matches with the criminal database or missing database. Once all these get computerized to work efficiency of the police officer will get increases. “Image Detection System” has been designed to automate the process of matching image. System can make the daily activities efficient and providing the fast response to store and retrieve information to the police officer by the android or web application.
