@@ -20,3 +20,8 @@ Steps:-
 11. pip install pillow
 12. pip install face-recognition
 13. python manage.py runserver
+
+Contact me:-
+Instagram:- @meghalmurkute
+Twitter:-@meghalmurkute
+Linkedin:- @meghalmurkute
