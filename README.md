@@ -19,10 +19,5 @@ Steps:-
 8. python manage.py makemigrations
 9. python manage.py migrate
 10. python manage.py createsuperuser
-11. python manage.py startapp user
-python manage.py startapp criminal
-python manage.py startapp missing
-python manage.py startapp feedback
-python manage.py startapp news
-12. pip install pillow
-13. pip install face-recognition
+11. pip install pillow
+12. pip install face-recognition
