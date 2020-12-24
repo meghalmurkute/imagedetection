@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<style>
+.hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  border-width: 1px;
+} 
+</style>
+<p><h1>News</h1></p><hr>
+{% for i in obj %}
+
+    <p><h5><b>{{ i.title }}</b></h5><br><h7>{{ i.news }}</h7></p>
+    <hr class="hr">
+
+{% endfor %}
+
+{% endblock %}
